@@ -39,10 +39,10 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ],
-    "homepage": "https://ol7mi.github.io/react_portfolio"
+    ]
   },
   "devDependencies": {
     "gh-pages": "^4.0.0"
-  }
+  },
+  "homepage": "https://ol7mi.github.io/react_portfolio/"
 }

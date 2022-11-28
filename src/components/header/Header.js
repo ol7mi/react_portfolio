@@ -64,7 +64,7 @@ function Header () {
                                     "nav_link"
                                 }
                             >
-                                <i className='uil uil-file-alt nav_icon'></i> Project
+                                <i className="uil uil-folder"></i> Project
                             </a>
                         </li>
 
@@ -75,7 +75,7 @@ function Header () {
                                 activeNav === "#pure" ? "nav_link active-link" :
                                 "nav_link"
                             }>
-                                <i className='uil uil-file-alt nav_icon'></i> Pure CSS
+                                <i className="uil uil-surprise"></i> Pure CSS
                             </a>
                         </li>
 
@@ -87,7 +87,7 @@ function Header () {
                                     "nav_link"
                                 }
                             >
-                                <i className='uil uil-file-alt nav_icon'></i> contact
+                                <i className="uil uil-message"></i> contact
                             </a>
                         </li>
                     </ul>

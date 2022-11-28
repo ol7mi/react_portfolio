@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.182eec01.css",
-    "main.js": "/static/js/main.2a1bb30e.js",
-    "static/media/movie.gif": "/static/media/movie.5132d504a8fed6e38768.gif",
-    "static/media/eunmi.png": "/static/media/eunmi.cc4facb2d2398cb6ab7c.png",
-    "static/media/kakao.gif": "/static/media/kakao.fe2ab0ff013eed4665fd.gif",
-    "index.html": "/index.html",
-    "main.182eec01.css.map": "/static/css/main.182eec01.css.map",
-    "main.2a1bb30e.js.map": "/static/js/main.2a1bb30e.js.map"
+    "main.css": "/react_portfolio/static/css/main.ec18977e.css",
+    "main.js": "/react_portfolio/static/js/main.51c5599a.js",
+    "static/media/movie.gif": "/react_portfolio/static/media/movie.5132d504a8fed6e38768.gif",
+    "static/media/eunmi.png": "/react_portfolio/static/media/eunmi.cc4facb2d2398cb6ab7c.png",
+    "static/media/kakao.gif": "/react_portfolio/static/media/kakao.fe2ab0ff013eed4665fd.gif",
+    "index.html": "/react_portfolio/index.html",
+    "main.ec18977e.css.map": "/react_portfolio/static/css/main.ec18977e.css.map",
+    "main.51c5599a.js.map": "/react_portfolio/static/js/main.51c5599a.js.map"
   },
   "entrypoints": [
-    "static/css/main.182eec01.css",
-    "static/js/main.2a1bb30e.js"
+    "static/css/main.ec18977e.css",
+    "static/js/main.51c5599a.js"
   ]
 }
