@@ -1,0 +1,36 @@
+.footer {
+    background-color: #6D9886;
+
+    .footer_container {
+        padding: 6rem 0 6rem;
+
+        // footer_social
+        .footer_social {
+            display: flex;
+            justify-content: center;
+            column-gap: 1.25rem;
+
+            .footer_social-link {
+                background-color: #fff;
+                color: #000;
+                font-size: 1.125rem;
+                padding: 0.4rem;
+                border-radius: 0.5rem;
+                display: inline-flex;
+                &:hover {
+                    background-color: #F2E7D5;
+                }
+            }
+        }
+    }
+}
+
+
+
+@media screen and (max-width:992px){
+    .footer_social-link {
+        padding: 0.25rem;
+        border-radius: 0.25rem;
+        font-size: 1rem;
+    }
+}

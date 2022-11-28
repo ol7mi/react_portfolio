@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.182eec01.css",
+    "main.js": "/static/js/main.2a1bb30e.js",
+    "static/media/movie.gif": "/static/media/movie.5132d504a8fed6e38768.gif",
+    "static/media/eunmi.png": "/static/media/eunmi.cc4facb2d2398cb6ab7c.png",
+    "static/media/kakao.gif": "/static/media/kakao.fe2ab0ff013eed4665fd.gif",
+    "index.html": "/index.html",
+    "main.182eec01.css.map": "/static/css/main.182eec01.css.map",
+    "main.2a1bb30e.js.map": "/static/js/main.2a1bb30e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.182eec01.css",
+    "static/js/main.2a1bb30e.js"
+  ]
+}
