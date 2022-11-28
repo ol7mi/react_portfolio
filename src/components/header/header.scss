@@ -130,10 +130,12 @@
     .nav_close {display: block;}
 
 }
-@media screen and (max-width:576px){
-    .nav_icon,
-    .nav_toggle, 
-    .nav_close {display: none;}
+@media screen and (max-width:625px){
+    .nav_link {text-indent: -9999px;overflow: hidden;}
+    .nav_icon {text-indent: 0;overflow: initial;}
+    // .nav_icon,
+    // .nav_toggle, 
+    // .nav_close {display: none;}
 }
 
 @media screen and (max-width : 350px){
