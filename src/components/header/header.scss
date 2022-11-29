@@ -130,15 +130,16 @@
     .nav_close {display: block;}
 
 }
-@media screen and (max-width:630px){
-    .nav_link {text-indent: -9999px;overflow: hidden;}
-    .nav_icon {text-indent: 0;overflow: initial;}
+@media screen and (max-width:576px){
+    // .nav_link {text-indent: -9999px;overflow: hidden;}
+    // .nav_icon {text-indent: 0;overflow: initial;}
+    .nav_icon,
+    .nav_toggle, 
+    .nav_close {display: none;}
 }
 
 @media screen and (max-width : 350px){
     .nav_menu {
         padding: 2rem 0.25rem 4rem;
     }
-    .nav_link {text-indent: -9999px;overflow: hidden;}
-    .nav_icon {text-indent: 0;overflow: initial;}
 }
